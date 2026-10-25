@@ -1,8 +1,8 @@
-# Portofolio Andi Pratama
+# Portofolio Arya wahyu dwi prasetyo
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
 ## Tampilan
-![Tampilan beranda portofolio](img/tampilan-portofolio.png)
+![Tampilan beranda portofolio](img/Capture.png)
 ## Fitur
 - Halaman **Beranda** berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
 - Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
@@ -14,4 +14,4 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - Git dan GitHub
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Andi Pratama, SMK Mitra
+- Dibuat oleh: Arya wahyu dwi prasetyo, SMKS Brantas Karangkates
