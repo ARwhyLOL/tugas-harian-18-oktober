@@ -14,4 +14,5 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - Git dan GitHub
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
+<<<<<<< HEAD
 - Dibuat oleh: Arya Wahyu Dwi Prasetyo, SMKS Brantas Karangkates
